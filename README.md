@@ -1,4 +1,4 @@
-# PORTFOLIO
+# Portfolio
 
 Create using React + Vite.
 
