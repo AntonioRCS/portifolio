@@ -1,0 +1,20 @@
+.main-header {
+  height: 7vh;
+}
+
+.main-about {
+  height: 93vh;
+  background-image: url('./img/rocket-inverted.jpg');
+}
+
+.main-skills {
+  height: 30vh;
+}
+
+.main-experiences {
+  height: 100vh;
+}
+
+.main-contact {
+  height: 30vh;
+}

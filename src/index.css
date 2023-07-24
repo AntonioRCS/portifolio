@@ -1,0 +1,11 @@
+:root {
+  font-family: 'Tektur', sans-serif;
+  color: white;
+}
+
+body {
+  margin: 0;
+  display: flex;
+
+  background-color: #004dd1;
+}
